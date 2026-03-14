@@ -1,7 +1,6 @@
 # ☁️ Google Cloud Platform: Complete Mastery Guide
 ### From Absolute Beginner to All GCP Certifications
 
-> **Taught by:** Senior GCP Cloud Architect & DevOps Engineer perspective | 15+ years in production
 > **Goal:** Pass every GCP certification and design production-grade cloud architectures on Google Cloud
 
 ---
